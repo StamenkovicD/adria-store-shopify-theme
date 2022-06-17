@@ -1,0 +1,376 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "de43216c-c6ef-423b-a212-8f2602025214": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/antica-slider-1.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 6,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/antica-olive-oil"
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner---Slideshow-aura2.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Pogledaj vise",
+            "link": "shopify:\/\/products\/antica-extra-virgin-olivenoel-500-ml"
+          }
+        }
+      },
+      "block_order": [
+        "de43216c-c6ef-423b-a212-8f2602025214",
+        "slide-2"
+      ],
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "medium",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "1652620699e1d55b5d": {
+      "type": "logo-list",
+      "blocks": {
+        "1652620699b9e2847c-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-logo-stara-sokolova_1.jpg",
+            "link": "shopify:\/\/collections\/stara-sokolova"
+          }
+        },
+        "1652620699b9e2847c-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-aura.jpg",
+            "link": "shopify:\/\/collections\/aura-proizvodi"
+          }
+        },
+        "1652620699b9e2847c-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-rubin-krusevac.jpg",
+            "link": "shopify:\/\/collections\/rubin"
+          }
+        },
+        "1652620699b9e2847c-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-tvrdos.jpg",
+            "link": "shopify:\/\/collections\/podrumi-manastrika-tvrdos"
+          }
+        },
+        "1652620699b9e2847c-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-dr-skobic.jpg",
+            "link": "shopify:\/\/collections\/dr-skobic"
+          }
+        },
+        "1652620699b9e2847c-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-podravka.jpg",
+            "link": "shopify:\/\/collections\/podravka"
+          }
+        }
+      },
+      "block_order": [
+        "1652620699b9e2847c-0",
+        "1652620699b9e2847c-1",
+        "1652620699b9e2847c-2",
+        "1652620699b9e2847c-3",
+        "1652620699b9e2847c-4",
+        "1652620699b9e2847c-5"
+      ],
+      "settings": {
+        "title": "Ausgewählte Hersteller",
+        "link_title": "Alle ansehen",
+        "link": "shopify:\/\/pages\/brands"
+      }
+    },
+    "16524825715e02299f": {
+      "type": "promotion-list",
+      "blocks": {
+        "1652482571306a3be1-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Promotional-Block-istarski-sirevi.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 43,
+            "stretch_image": true,
+            "background": "#6f42ef",
+            "text_color": "#ffffff",
+            "title": "Istrischer Käse",
+            "content": "<p>Diese Käsesorten können als Vorspeise, Dessert oder in verschiedenen Gerichten verwendet werden.<\/p>",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#662713",
+            "button_text": "mehr",
+            "button_link": "shopify:\/\/collections\/istarski-sirevi"
+          }
+        },
+        "1652482571306a3be1-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Promotional-Block-aura-dzemovi-1.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 21,
+            "stretch_image": true,
+            "background": "#cf9844",
+            "text_color": "#ffffff",
+            "title": "Aura Marmeladen",
+            "content": "<p>In unserem Shop finden Sie interessante Köstlichkeiten, von Konfitüren aus Löwenzahn, Brombeeren, Himbeeren, Heidelbeeren, Feigen, Pflaumen und Hartriegel.<\/p>",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#cf9844",
+            "button_text": "mehr",
+            "button_link": "shopify:\/\/collections\/aura-dzemovi"
+          }
+        },
+        "1652482571306a3be1-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Promotional-Block-bagueri-2.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 35,
+            "stretch_image": true,
+            "background": "#008a00",
+            "text_color": "#ffffff",
+            "title": "Klet Brda - Bagueri",
+            "content": "<p>Bagueri-Weine sind eine Premium-Linie von Weinen, die in Eichenfässern reifen<\/p>",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#008a00",
+            "button_text": "mehr",
+            "button_link": "shopify:\/\/collections\/bagueri-weine"
+          }
+        }
+      },
+      "block_order": [
+        "1652482571306a3be1-0",
+        "1652482571306a3be1-1",
+        "1652482571306a3be1-2"
+      ],
+      "settings": {
+        "expand_items": false,
+        "section_size": "small",
+        "stack_mobile": false
+      }
+    },
+    "165253251733c6586d": {
+      "type": "collection-list",
+      "blocks": {
+        "1652532517c918bb80-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "fleischspezialitaten",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded---Meat.jpg",
+            "link": ""
+          }
+        },
+        "1652532517c918bb80-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "wein",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-Wein.jpg",
+            "link": ""
+          }
+        },
+        "1652532517c918bb80-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "spirituosen",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-Spiritousen.jpg",
+            "link": ""
+          }
+        },
+        "1652532517c918bb80-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "kase",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-sir.jpg",
+            "link": ""
+          }
+        },
+        "a3c7b06c-972a-4b38-928d-327661922f46": {
+          "type": "collection",
+          "settings": {
+            "collection": "bier-getranke-amp-kaffee",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-cedevita-sok-pivo.jpg",
+            "link": ""
+          }
+        },
+        "1652532517c918bb80-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschenkbox-gift-box",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-gift-box.jpg",
+            "link": ""
+          }
+        },
+        "8418f280-8110-4164-86e5-9345ba607794": {
+          "type": "collection",
+          "settings": {
+            "collection": "ole-amp-gewurze",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-oil-spices.jpg",
+            "link": ""
+          }
+        },
+        "aea321ea-b066-4325-b176-99eb7df5d029": {
+          "type": "collection",
+          "settings": {
+            "collection": "fertiggerichte",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-ready-meals.jpg",
+            "link": ""
+          }
+        },
+        "93a287f5-fc4e-4d8b-bc02-6dbc5a3d9bb2": {
+          "type": "collection",
+          "settings": {
+            "collection": "antipasti-amp-eingelegtes",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-zimnica.jpg",
+            "link": ""
+          }
+        },
+        "69143335-9080-43c7-8655-4013325ef115": {
+          "type": "collection",
+          "settings": {
+            "collection": "susse-brotaufstriche",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-sweet-spreads.jpg",
+            "link": ""
+          }
+        },
+        "dfe6a070-9ba7-41a0-8cbe-637dd3458054": {
+          "type": "collection",
+          "settings": {
+            "collection": "sussigkeiten-amp-snacks",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-sweet-snacs.jpg",
+            "link": ""
+          }
+        },
+        "02a0f8b6-a223-49a5-9825-9b0991b3d5d2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kochen-amp-backen",
+            "image": "shopify:\/\/shop_images\/Collections---Preview-Rounded-Kochen-_-Backen.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652532517c918bb80-1",
+        "1652532517c918bb80-2",
+        "1652532517c918bb80-3",
+        "1652532517c918bb80-4",
+        "a3c7b06c-972a-4b38-928d-327661922f46",
+        "1652532517c918bb80-5",
+        "8418f280-8110-4164-86e5-9345ba607794",
+        "aea321ea-b066-4325-b176-99eb7df5d029",
+        "93a287f5-fc4e-4d8b-bc02-6dbc5a3d9bb2",
+        "69143335-9080-43c7-8655-4013325ef115",
+        "dfe6a070-9ba7-41a0-8cbe-637dd3458054",
+        "02a0f8b6-a223-49a5-9825-9b0991b3d5d2"
+      ],
+      "settings": {
+        "title": "Kategorie",
+        "link_title": "Alle ansehen",
+        "link": "shopify:\/\/collections",
+        "round_images": true,
+        "show_collection_title": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "premium-spirituosen",
+        "title": "Ausgewählte Produkte",
+        "products_count": 13,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "Alle ansehen",
+        "link_url": ""
+      }
+    },
+    "16525485416a21adb7": {
+      "type": "collection-with-image",
+      "settings": {
+        "collection": "trend",
+        "products_count": 12,
+        "show_quick_buy": false,
+        "image": "shopify:\/\/shop_images\/made-by-png.png",
+        "background": "#3a2a2f",
+        "text_color": "#ffffff",
+        "title": "Trendprodukte",
+        "content": "Entdecken Sie unser neues Sortiment an einzigartigen und köstlichen Produkten, die von Top-Herstellern kreiert wurden.",
+        "button_background": "#ffffff",
+        "button_text_color": "#3a2a2f",
+        "button_text": "Neuheiten",
+        "button_link": "shopify:\/\/collections\/new-arrivals"
+      }
+    },
+    "16532415719b06e6cc": {
+      "type": "rich-text",
+      "settings": {
+        "text_width": "regular",
+        "title": "Willkommen zu Adria Store",
+        "content": "<p>Wir sind ein Team leidenschaftlicher Kenner.<br\/>Mit unseren sorgfältig ausgewählten Produkten senden wir Ihren Gaumen auf eine abenteuerliche Reise von Istrien nach Montenegro.<br\/>Von der Küste bis zu Hochgebirgsmassiven gibt es an der Adria verschiedene Klimazonen, die eine große kulinarische Vielfalt bieten. Mediterrane, aber auch orientalische Einflüsse spiegeln sich in den Spezialitäten der jeweiligen Regionen wider.<br\/><br\/>In unserem Sortiment finden Sie mehrere preisgekrönte Weine und Spirituosen, Spezialitäten, Fleisch, Käse und vieles mehr.<br\/>Wir arbeiten hauptsächlich mit kleinen Herstellern und Familienunternehmen zusammen und legen großen Wert auf eine ökologische und nachhaltige Produktion und den Verzicht auf Gentechnik. Lernen Sie uns und unsere Produkte kennen! Bestellen Sie einfach eines unserer gemischten Pakete! Wir freuen uns darauf, Sie diesem wunderbaren Teil Europas näher zu bringen.<\/p>",
+        "button_text": "Unsere Kategorien",
+        "button_link": "shopify:\/\/collections"
+      }
+    },
+    "1653241939a6f1e315": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "angebote",
+        "title": "Angebote",
+        "products_count": 6,
+        "layout": "collage",
+        "stack_products": false,
+        "show_quick_buy": true,
+        "link_title": "Alle ansehen",
+        "link_url": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>Sie möchten mehr Informationen über unsere Produkte und unseren Online-Shop erhalten und immer auf dem neusten Stand sein?<\/p>",
+        "background": "#73293a",
+        "text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1652620699e1d55b5d",
+    "16524825715e02299f",
+    "165253251733c6586d",
+    "featured-collection",
+    "16525485416a21adb7",
+    "16532415719b06e6cc",
+    "1653241939a6f1e315",
+    "newsletter"
+  ]
+}

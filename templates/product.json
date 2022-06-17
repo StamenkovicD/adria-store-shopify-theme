@@ -1,0 +1,92 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product_meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
+          }
+        },
+        "variant_selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": true,
+            "show_inventory_quantity": true,
+            "low_inventory_threshold": 3
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "display_mode": "show_all"
+          }
+        },
+        "683c423c-f3fe-49d2-9150-3e80b871f22a": {
+          "type": "content",
+          "settings": {
+            "title": "Nutrition Value",
+            "content": "<p>{{ product.metafields.my_fields.ingredients | metafield_tag }}<\/p>",
+            "page": "",
+            "display_mode": "collapse"
+          }
+        },
+        "acc048e3-19e8-4074-a249-b8edf1266af8": {
+          "type": "trust",
+          "settings": {
+            "trust_title": "Garantie für sicheres Bezahlen",
+            "show_payment_icons": true,
+            "custom_security_badge_width": 200
+          }
+        }
+      },
+      "block_order": [
+        "product_meta",
+        "variant_selector",
+        "buy_buttons",
+        "description",
+        "683c423c-f3fe-49d2-9150-3e80b871f22a",
+        "acc048e3-19e8-4074-a249-b8edf1266af8"
+      ],
+      "settings": {
+        "image_size": "small",
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Das könnte Sie auch interessieren",
+        "show_quick_buy": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Zuletzt angesehen",
+        "show_quick_buy": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

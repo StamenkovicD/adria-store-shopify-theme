@@ -1,0 +1,85 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1655419542a7e80d23": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kuehlverpackung-hladno-isporuceno.jpg",
+        "image_position": "left",
+        "image_width": 40,
+        "title": "Kühlverpackung",
+        "content": "<p>For refrigerated shipping, we charge a surcharge of 1.89 euros per delivery, regardless of the value of the goods.<\/p>",
+        "button_text": "",
+        "button_link": ""
+      }
+    },
+    "16554197210ac43db5": {
+      "type": "faq",
+      "blocks": {
+        "1655419721e977ddb5-0": {
+          "type": "separator",
+          "settings": {
+            "title": "Cesta pitanja"
+          }
+        },
+        "1655419721e977ddb5-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "1655419721e977ddb5-2": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "1655419721e977ddb5-3": {
+          "type": "question",
+          "settings": {
+            "title": "What shipping carriers do you use?",
+            "answer": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1655419721e977ddb5-0",
+        "1655419721e977ddb5-1",
+        "1655419721e977ddb5-2",
+        "1655419721e977ddb5-3"
+      ],
+      "settings": {
+        "show_contact_info": true,
+        "contact_info_heading": "Any question?",
+        "contact_info_text": "<p>If we still haven't answered your question, you can contact us below and we will get back to you as soon as possible.<\/p>",
+        "contact_1_icon": "bi-phone",
+        "contact_1_heading": "Customer support",
+        "contact_1_text": "<p>+49 40 81901780<\/p>",
+        "contact_2_icon": "bi-email",
+        "contact_2_heading": "Send a message",
+        "contact_2_text": "<p>info@adria-store.de<\/p>"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>Sie möchten mehr Informationen über unsere Produkte und unseren Online-Shop erhalten und immer auf dem neusten Stand sein?<\/p>",
+        "background": "#73293a",
+        "text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655419542a7e80d23",
+    "16554197210ac43db5",
+    "newsletter"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collections-list",
+      "blocks": {
+        "189deaf8-a2a3-4b65-a0fe-9819207ede1c": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "stara-sokolova"
+          }
+        }
+      },
+      "block_order": [
+        "189deaf8-a2a3-4b65-a0fe-9819207ede1c"
+      ],
+      "settings": {
+        "collections_to_show": "selected",
+        "collection_linklist": "popularni-brendovi",
+        "show_collection_title": true,
+        "show_collection_overlay": true,
+        "collection_overlay_opacity": 20
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>Sie möchten mehr Informationen über unsere Produkte und unseren Online-Shop erhalten und immer auf dem neusten Stand sein?<\/p>",
+        "background": "#73293a",
+        "text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter"
+  ]
+}
